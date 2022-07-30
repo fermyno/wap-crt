@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<!DOCTYPE wml PUBLIC "-//WAPFORUM//DTD WML 1.1//EN"
+                     "http://www.wapforum.org/DTD/wml_1.1.xml">
+
+<wml>
+
+<template>
+	<do name='prev' type='prev' label='Voltar'>
+		<prev/>
+	</do>
+
+</template>
+
+<card id='sobre' title='Intranet WAP CRT'>
+    <p>
+       <img src='images/crt-logo.wbmp' width='79' height='25' alt='CRT'/>
+    </p>
+
+    <p>
+	   <b>Sobre a iniciativa</b>
+	</p>
+
+    <p>
+       <small>
+          Este &eacute; o projeto-piloto de um portal unificado para todas as centrais telef&ocirc;nicas 
+          da Diretoria de Opera&ccedil;&otilde;es.
+       </small>
+    </p>
+
+    <p>
+       Cr&iacute;ticas e Sugest&otilde;es: <br>
+       <small>
+		  Fermyno Gutierrez<br>
+		  fermyno.gutierrez@crt.net.br<br>
+       </small>
+    </p>
+
+</card>
+
+</wml>
