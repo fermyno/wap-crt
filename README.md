@@ -70,9 +70,14 @@ Embora o projeto-piloto tenha tido grande aceitação por parte da empresa, com 
 Em 2000, com a saída do acionista majoritario (Telefonica de Espanha) e ingresso de novo acionista (Brasil Telecom), o projeto ficou em segundo plano, sendo posteriormente cancelado.
 
 # Capturas de Tela do Projeto-piloto:
-
+\
 ![](https://raw.githubusercontent.com/fermyno/wap-crt/main/screenshots/wap-crt-index.png)
+\
 ![](https://raw.githubusercontent.com/fermyno/wap-crt/main/screenshots/wap-crt-avisos.png)
+\
 ![](https://raw.githubusercontent.com/fermyno/wap-crt/main/screenshots/wap-crt-telefones.png)
+\
 ![](https://raw.githubusercontent.com/fermyno/wap-crt/main/screenshots/wap-crt-plantao.png)
+\
 ![](https://raw.githubusercontent.com/fermyno/wap-crt/main/screenshots/wap-crt-sobre.png)
+\
