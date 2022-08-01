@@ -80,4 +80,4 @@ Em 2000, com a saída do acionista majoritario (Telefonica de Espanha) e ingress
 ![](https://raw.githubusercontent.com/fermyno/wap-crt/main/screenshots/wap-crt-plantao.png)
 \
 ![](https://raw.githubusercontent.com/fermyno/wap-crt/main/screenshots/wap-crt-sobre.png)
-\
+
