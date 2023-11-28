@@ -68,25 +68,31 @@ Com a duração aproximada de três meses, o projeto-piloto contou com o apoio d
 Embora o projeto-piloto tenha tido grande aceitação por parte da empresa, com a rápida evolução tecnológica, o wap tornou-se rapidamente obsoleto e optou-se por desenvolver uma nova versão da intranet em HTML/PHP.
 
 Em 2000, com a saída do acionista majoritario (Telefonica de Espanha) e ingresso de novo acionista (Brasil Telecom), o projeto ficou em segundo plano, sendo posteriormente cancelado.
+<br />
 
 # Capturas de Tela do Projeto-piloto:
-<br />
 
 ### index.wml
 ![](https://raw.githubusercontent.com/fermyno/wap-crt/main/screenshots/wap-crt-index.png)
 <br />
 <br />
 
-
+### crt-avisos.wml
 ![](https://raw.githubusercontent.com/fermyno/wap-crt/main/screenshots/wap-crt-avisos.png)
 <br />
 <br />
+
+### crt-telefones.wml
 ![](https://raw.githubusercontent.com/fermyno/wap-crt/main/screenshots/wap-crt-telefones.png)
 <br />
 <br />
+
+### crt-plantao.wml
 ![](https://raw.githubusercontent.com/fermyno/wap-crt/main/screenshots/wap-crt-plantao.png)
 <br />
 <br />
+
+### crt-sobre.wml
 ![](https://raw.githubusercontent.com/fermyno/wap-crt/main/screenshots/wap-crt-sobre.png)
 <br />
 
