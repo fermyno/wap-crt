@@ -71,10 +71,8 @@ Em 2000, com a saída do acionista majoritario (Telefonica de Espanha) e ingress
 
 # Capturas de Tela do Projeto-piloto:
 <br />
-<br />
 
 ### index.wml
-<br />
 ![](https://raw.githubusercontent.com/fermyno/wap-crt/main/screenshots/wap-crt-index.png)
 <br />
 <br />
