@@ -74,6 +74,9 @@ Em 2000, com a saída do acionista majoritario (Telefonica de Espanha) e ingress
 
 ### index.wml
 ![](https://raw.githubusercontent.com/fermyno/wap-crt/main/screenshots/wap-crt-index.png)
+```xml
+code
+```
 <br />
 <br />
 
