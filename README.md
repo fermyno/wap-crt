@@ -75,27 +75,39 @@ Em 2000, com a saída do acionista majoritario (Telefonica de Espanha) e ingress
 ### index.wml
 ![](https://raw.githubusercontent.com/fermyno/wap-crt/main/screenshots/wap-crt-index.png)
 ```xml
-code
+code.xml
 ```
 <br />
 <br />
 
 ### crt-avisos.wml
 ![](https://raw.githubusercontent.com/fermyno/wap-crt/main/screenshots/wap-crt-avisos.png)
+```xml
+code.xml
+```
 <br />
 <br />
 
 ### crt-telefones.wml
 ![](https://raw.githubusercontent.com/fermyno/wap-crt/main/screenshots/wap-crt-telefones.png)
+```xml
+code.xml
+```
 <br />
 <br />
 
 ### crt-plantao.wml
 ![](https://raw.githubusercontent.com/fermyno/wap-crt/main/screenshots/wap-crt-plantao.png)
+```xml
+code.xml
+```
 <br />
 <br />
 
 ### crt-sobre.wml
 ![](https://raw.githubusercontent.com/fermyno/wap-crt/main/screenshots/wap-crt-sobre.png)
+```xml
+code.xml
+```
 <br />
 
