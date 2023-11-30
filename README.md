@@ -75,7 +75,8 @@ Em 2000, com a saída do acionista majoritario (Telefonica de Espanha) e ingress
 ### index.wml
 ![](https://raw.githubusercontent.com/fermyno/wap-crt/main/screenshots/wap-crt-index.png)
 <br />
-**index.wml**
+<br />
+Código: **index.wml**
 ```xml
 <?xml version="1.0"?>
 <!DOCTYPE wml PUBLIC "-//WAPFORUM//DTD WML 1.1//EN" "http://www.wapforum.org/DTD/wml_1.1.xml">
