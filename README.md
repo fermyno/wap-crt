@@ -75,7 +75,39 @@ Em 2000, com a saída do acionista majoritario (Telefonica de Espanha) e ingress
 ### index.wml
 ![](https://raw.githubusercontent.com/fermyno/wap-crt/main/screenshots/wap-crt-index.png)
 ```xml
-code.xml
+<?xml version="1.0"?>
+<!DOCTYPE wml PUBLIC "-//WAPFORUM//DTD WML 1.1//EN" "http://www.wapforum.org/DTD/wml_1.1.xml">
+<wml>
+<template>
+	<do name='prev' type='prev' label='Voltar'>
+		<prev/>
+	</do>
+</template>
+<card id='index' title='Intranet WAP CRT'>
+	<do name='index' type='index' label='About:'>
+		<noop/>
+	</do>
+    <p>
+       <img src='images/crt-logo.wbmp' width='79' height='25' alt='CRT'/>
+    </p>
+	<p>
+	   <small>
+          Bem-vindo ao portal WAP da Companhia Riograndense de Telecomunica&ccedil;&otilde;es.
+       </small>
+	</p>
+	<p>
+	   <small>
+          Selecione:
+       </small>
+	</p>
+    <p>
+       <a href='crt-avisos.wml'>Avisos &Uacute;teis</a><br/>
+       <a href='crt-telefones.wml'>Telefones</a><br/>
+       <a href='crt-plantao.wml'>Escala de Plant&atilde;o</a><br/>
+       <a href='crt-sobre.wml'>Sobre a Iniciativa</a><br/>
+    </p>
+</card>
+</wml>
 ```
 <br />
 <br />
