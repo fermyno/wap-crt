@@ -163,7 +163,32 @@ Código: **crt-avisos.wml**
 <br />
 Código: **crt-telefones.wml**
 ```xml
-code.xml
+<?xml version="1.0"?>
+<!DOCTYPE wml PUBLIC "-//WAPFORUM//DTD WML 1.1//EN"
+                     "http://www.wapforum.org/DTD/wml_1.1.xml">
+<wml>
+<template>
+	<do name='prev' type='prev' label='Voltar'>
+		<prev/>
+	</do>
+</template>
+<card id='telefones' title='Intranet WAP CRT'>
+    <p>
+       <img src='images/crt-logo.wbmp' width='79' height='25' alt='CRT'/>
+    </p>
+    <p>
+	   <b>Telefones Importantes</b>
+    </p>
+    <p>
+       <small>
+          <b>Acidentes / CIPA</b>: 339-1020<br>
+		  <b>Fiscais de Rede</b>: 339-1045<br>
+		  <b>DG (Distribuidor Geral)</b>: 339-1047<br>
+		  <b>Central de Servi&ccedil;os</b>: 339-1071
+       </small>
+    </p>
+</card>
+</wml>
 ```
 <br />
 <br />
