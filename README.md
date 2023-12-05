@@ -196,7 +196,32 @@ Código: **crt-telefones.wml**
 ### crt-plantao.wml
 ![](https://raw.githubusercontent.com/fermyno/wap-crt/main/screenshots/wap-crt-plantao.png)
 ```xml
-code.xml
+<?xml version="1.0"?>
+<!DOCTYPE wml PUBLIC "-//WAPFORUM//DTD WML 1.1//EN"
+                     "http://www.wapforum.org/DTD/wml_1.1.xml">
+<wml>
+<template>
+	<do name='prev' type='prev' label='Voltar'>
+		<prev/>
+	</do>
+</template>
+<card id='plantao' title='Intranet WAP CRT'>
+    <p>
+       <img src='images/crt-logo.wbmp' width='79' height='25' alt='CRT'/>
+    </p>
+    <p>
+	   <b>Escala de Plant&atilde;o - Abril 2000</b>
+    </p>
+    <p>
+       <small>
+          <b>Grupo 1</b>: 03/04/2000 - 09/04/2000<br>
+		  <b>Grupo 2</b>: 10/04/2000 - 16/04/2000<br>
+		  <b>Grupo 3</b>: 17/04/2000 - 23/04/2000<br>
+		  <b>Grupo 4</b>: 24/04/2000 - 30/04/2000
+       </small>
+    </p>
+</card>
+</wml>
 ```
 <br />
 <br />
