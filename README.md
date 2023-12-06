@@ -15,8 +15,8 @@ O objetivo era implementar uma **Intranet WAP** com informações em tempo-real 
 
 Fermyno Gutierrez  
 **Companhia Riograndense de Telecomunicações**  
-**Núcleo de Informática da Central Alto Petrópolis**  
-**Diretoria de Operações**
+Núcleo de Informática da Central Alto Petrópolis  
+Diretoria de Operações
 
 # Sobre a Empresa:
 
