@@ -14,6 +14,7 @@ O objetivo era implementar uma **Intranet WAP** com informações em tempo-real 
 # Coordenação do Projeto:
 
 Fermyno Gutierrez  
+**Companhia Riograndense de Telecomunicações**  
 **Núcleo de Informática da Central Alto Petrópolis**  
 **Diretoria de Operações**
 
