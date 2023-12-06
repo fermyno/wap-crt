@@ -195,6 +195,7 @@ Código: **crt-telefones.wml**
 
 ### crt-plantao.wml
 ![](https://raw.githubusercontent.com/fermyno/wap-crt/main/screenshots/wap-crt-plantao.png)
+Código: **crt-plantao.wml**
 ```xml
 <?xml version="1.0"?>
 <!DOCTYPE wml PUBLIC "-//WAPFORUM//DTD WML 1.1//EN"
